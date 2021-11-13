@@ -1,7 +1,7 @@
 # project-1
 
-##opis
+## opis
 lorem
 
-##licencja
+## licencja
 Nasz pierwszy przykładowy projekt
