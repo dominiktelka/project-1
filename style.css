@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    background-image: url(baloons.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: 50%;
+
+}
+
+h1{
+    position: absolute;
+    font-size: 4.6rem;
+    color: white;
+    right: 20%;
+    top: 20%;
+    font-family: roboto;
+}
